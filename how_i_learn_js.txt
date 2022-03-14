@@ -6,8 +6,8 @@ aim : 1) i will complete full playlist;
       2) make my own mininum 5 projects;
 
      ________________________________________________
-      | day    |  videos    |    gains  |    left  |
-      |________|____________|___________|__________|
+      | day    =  videos    |    gains  |    left  |
+      |_____________________|___________|__________|
         day 1 = 7 videos  ;     +7;       59-left ;
         day 2 = 12 videos ;     +5;       54-left ;     
         day 3 = 16 videos ;     +4;       50-left ;  
